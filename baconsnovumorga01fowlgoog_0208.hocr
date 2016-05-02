@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./baconsnovumorga01fowlgoog_0208.png"; bbox 0 0 3346 5104; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 406 1895 1179 1982">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 406 1895 1179 1982">
+     <span class='ocr_line' id='line_1_1' title="bbox 406 1895 1179 1982; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 406 1895 689 1980; x_wconf 87' lang='lat' dir='ltr'>PARTIS</span> <span class='ocrx_word' id='word_1_2' title='bbox 751 1895 1179 1982; x_wconf 85' lang='lat' dir='ltr'><strong>SECUNDAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 612 2179 977 2305">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 612 2179 977 2305">
+     <span class='ocr_line' id='line_1_2' title="bbox 612 2179 977 2305; baseline -0.005 -17"><span class='ocrx_word' id='word_1_3' title='bbox 612 2179 977 2305; x_wconf 79' lang='lat' dir='ltr'><strong>SUMMA,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 649 2482 935 2556">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 649 2482 935 2556">
+     <span class='ocr_line' id='line_1_3' title="bbox 649 2482 935 2556; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 649 2482 935 2556; x_wconf 84' lang='lat' dir='ltr'><em>DIGESTA</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 530 3001 1059 3098">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 530 3001 1059 3098">
+     <span class='ocr_line' id='line_1_4' title="bbox 530 3001 1059 3098; baseline 0.008 -4"><span class='ocrx_word' id='word_1_5' title='bbox 530 3001 1059 3098; x_wconf 75' lang='lat' dir='ltr'><strong>APHORISMOS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1678 5104">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1678 5104">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1678 5104; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1678 5104; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
