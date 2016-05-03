@@ -1,0 +1,57 @@
+LJB. I. 19. 197
+
+cipiis eorumque immota veritate judicat et invenit axiomata
+media; atque haec via in usu est. Altera a sensu et particu-
+
+nected deductively with some still higher generalisations which bave been
+established on independent grounds. When this final step has been talen,
+the axiomata media deduced from it may be accepted with implicit cou-
+tidence.
+
+Generally speaking, the axioma maxime generale, even when conceived
+before the axiomata media, will rest on an induction from these, as its final
+proof; as these themselves will probably rest on lower axioms, and so on till
+we reach the axioms which rest on an induction from individual facts.
+But, in the order ol conception, though not in the order of prool, the axioma
+maxime generale or one ol the highest of the intermediate axioms usually
+comes first, and this circumstance it is which distinguishes the method
+we are describing from that commended by Bacon.
+
+The history ol the Theory ol Gravitation supplies au example ola
+scientific doctrine, the steps of which were established almost in the exact
+order which Bacon recommends. This may be seen by consulting the
+lnductive Table ol Astronomy giren iu Dr. Whewell's Novum Organum
+Renovatum. Moreover, in all sciences this order is the most convenient
+mode of representing the laws, when once established, though, as we have
+seen, it is by no means that in which they are always actually established,
+as a matter of fact. Bearing in mind this qualification, we may adopt
+the words of Dr. Whewell :-
+
+‘We have, indeed, already explained that science consists of Propositions
+which include the Facts from which they were collected; and other wider
+Propositions, collected in like manner from the former, and including
+them. Thus, that the stars, the moon, the sun, rise, culminate, and set,
+are laets included in the proposition that the heavens, carrying with them
+all the celestial bodies, have a diurnal revolution about the axis ol the
+earth. dgain, the observed monthly motions ol the moon, and the annual
+motions ol the sun, are included in certain propositions concerning the
+movements of those luminaries with respect to the stars. But all these
+propositione are really included in the doctrine that the earth, revolving on
+its axis, moves round the sun, and the moon round the earth. These
+movements, again, considered as facts, are explained and included in the
+statement of the forces which the earth exerts upon the moon, and tbe
+sun upon the earth. Again, this doctrine ol the forces ol these three
+bodies is included in the assertion, that all the bodies of the solar system,
+and all parts oi matter, exert forces, eacb upon each. And we might easily
+shew that all tbe leading facts in astronomy are comprehended in the same
+generalisation. ln lilre manner with regard to any other science, sofar as its
+trutbs bare been well established and fully developed, we might shew that
+it consists of a gradation of propositione, proceeding from the most special
+iacts to the most general theoretical assertione! (Novum Organum Reno·
+vatum, ch. vi. § r.)
+
+Even in Astronomy, however, the heliocentric hypothesis had occurred
+to the ancients long before the state of their knowledge was sufficient
+
+ 
+
